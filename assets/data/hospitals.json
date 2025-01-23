@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Addis Ababa Medical Center",
+    "phone_numbers": ["0111234567", "0112345678", "0911234567", "0912345678"],
+    "location": "Addis Ababa",
+    "latitude": "9.1450",
+    "longitude": "38.7451"
+  },
+  {
+    "name": "Black Lion Hospital",
+    "phone_numbers": ["0111234569"],
+    "location": "Addis Ababa",
+    "latitude": "9.0167",
+    "longitude": "38.7517"
+  },
+  {
+    "name": "St. Paul's Hospital",
+    "phone_numbers": ["0111234570", "0112345671"],
+    "location": "Addis Ababa",
+    "latitude": "9.0285",
+    "longitude": "38.7567"
+  },
+  {
+    "name": "Hawassa University Referral Hospital",
+    "phone_numbers": ["0462201234", "0462205678"],
+    "location": "Hawassa",
+    "latitude": "7.0688",
+    "longitude": "38.3161"
+  },
+  {
+    "name": "Gondar University Hospital",
+    "phone_numbers": ["0581201234", "0581205678"],
+    "location": "Gondar",
+    "latitude": "12.5992",
+    "longitude": "37.4714"
+  }
+]
+ 

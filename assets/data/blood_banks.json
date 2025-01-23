@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Addis Ababa Blood Bank",
+    "phone_numbers": ["0111234567", "0111234568", "0911234567", "0911234568"],
+    "location": "Addis Ababa",
+    "latitude": "9.1450",
+    "longitude": "38.7451"
+  },
+  {
+    "name": "Hawassa Blood Bank",
+    "phone_numbers": ["0462201234"],
+    "location": "Hawassa",
+    "latitude": "7.0688",
+    "longitude": "38.3161"
+  },
+  {
+    "name": "Gondar Blood Bank",
+    "phone_numbers": ["0581201234", "0581205678"],
+    "location": "Gondar",
+    "latitude": "12.5992",
+    "longitude": "37.4714"
+  },
+  {
+    "name": "Mekelle Blood Bank",
+    "phone_numbers": ["0344101234"],
+    "location": "Mekelle",
+    "latitude": "13.4852",
+    "longitude": "39.4762"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Addis Ababa Administrative Center",
+    "phone_numbers": ["01168600", "01168601", "09125009"],
+    "location": "Addis Ababa",
+    "latitude": "9.1450",
+    "longitude": "38.7451"
+  },
+  {
+    "name": "Addis Ababa Operations Center",
+    "phone_numbers": ["01124017", "01124018", "01124020", "01121675"],
+    "location": "Addis Ababa",
+    "latitude": "9.1450",
+    "longitude": "38.7451"
+  },
+  {
+    "name": "Hawassa Regional Operations Room",
+    "phone_numbers": ["04625166", "04625458", "04625463"],
+    "location": "Hawassa",
+    "latitude": "7.0688",
+    "longitude": "38.3161"
+  },
+  {
+    "name": "Mekelle Regional Operations Room",
+    "phone_numbers": ["03424520", "03424521", "03424522"],
+    "location": "Mekelle",
+    "latitude": "13.4852",
+    "longitude": "39.4762"
+  }
+]
+ 

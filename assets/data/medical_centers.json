@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Addis Ababa Medical Center",
+    "location": "Addis Ababa",
+    "latitude": "9.1450",
+    "longitude": "38.7451",
+    "phone_numbers": ["01182883", "01190407", "09118922"]
+  },
+  {
+    "name": "Green Cross Hospital",
+    "location": "Addis Ababa",
+    "latitude": "9.1450",
+    "longitude": "38.7451",
+    "phone_numbers": ["01185665"]
+  },
+  {
+    "name": "Ethiopian Red Cross Hospital",
+    "location": "Addis Ababa",
+    "latitude": "9.1450",
+    "longitude": "38.7451",
+    "phone_numbers": ["01184737", "01184738", "01184739", "01102552"]
+  },
+  {
+    "name": "Hawassa University Hospital",
+    "location": "Hawassa",
+    "latitude": "7.0688",
+    "longitude": "38.3161",
+    "phone_numbers": ["0462201234", "0462205678"]
+  }
+]
